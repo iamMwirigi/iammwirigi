@@ -1,4 +1,4 @@
-# ssup, Mwirigi here, a website shaman.
+# ssup, Mwirigi here, im a website shaman.
 
 
 ## 🌐 Socials:
