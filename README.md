@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently Freelancing on an ECommerce website.<br>👯 I’m looking to collaborate on Both Frontend and Backend web Application.<br>🌱 I’m currently learning Django Framework.<br>💬 Ask me about BootstrapCSS, TailwindCSS, JavaScript, ReactJS,  Python, Flask, Django, Git, and Web designing <br>⚡ Fun fact i am a full-stack developer with a strong proficiency in frontend technologies and a focus on UI/UX design using Figma.
+# ssup i Mwirigi here a website shaman
 
 
 ## 🌐 Socials:
