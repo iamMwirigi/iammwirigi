@@ -1,4 +1,4 @@
-# ssup, Mwirigi here, im a website shaman.
+# ssup, Mwirigi here, im a software shaman.
 
 
 
