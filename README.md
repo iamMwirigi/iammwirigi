@@ -1,4 +1,4 @@
-# ssup, Mwirigi here, a software shaman.
+# ssup, Mwirigi here, a Backend Engineer.
 
 
 
